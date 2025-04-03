@@ -19,6 +19,8 @@ namespace Ampel_C
         public MainWindow()
         {
             InitializeComponent();
+
+            int a = 5;
         }
     }
 }
